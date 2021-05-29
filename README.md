@@ -68,7 +68,7 @@ NOTE:- The dataset should be in CSV Format. For excel, you can use ```pd.read_ex
 *I have written pd here because we have imported the pandas module in the name of pd*
 
 ## File:
-[Click here]() to access the .ipynb file. 
+[Click here](https://github.com/Subrat2006/Titanic-Dataset/blob/main/main.ipynb) to access the .ipynb file. 
 
 ## Further readings:
 [Click here](https://jupyter.org/install.html) if you want to know more about the installation of Jupyter Notebook.
